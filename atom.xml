@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Tecur</title>
+  
+  <subtitle>Welcome to my blog.</subtitle>
+  <link href="https://blog.tecur.xyz/atom.xml" rel="self"/>
+  
+  <link href="https://blog.tecur.xyz/"/>
+  <updated>2021-03-01T14:42:43.118Z</updated>
+  <id>https://blog.tecur.xyz/</id>
+  
+  <author>
+    <name>Tecur</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CASIO fx-9750GII Firmware Update</title>
+    <link href="https://blog.tecur.xyz/2018/02/03/Casio-fx-9750GII-Update/"/>
+    <id>https://blog.tecur.xyz/2018/02/03/Casio-fx-9750GII-Update/</id>
+    <published>2018-02-02T23:00:00.000Z</published>
+    <updated>2021-03-01T14:42:43.118Z</updated>
+    
+    
+    <summary type="html">Both CASIO fx-9750GII and CASIO fx-9860GII use the same SH4A CPU. Therefore the old firmware of the fx-9750GII (02.02.xxxx) can be replaced by the newer firmware of the fx-9860GII (02.02.0201)</summary>
+    
+    
+    
+    <category term="Computer Science" scheme="https://blog.tecur.xyz/categories/Computer-Science/"/>
+    
+    
+    <category term="Calculator" scheme="https://blog.tecur.xyz/tags/Calculator/"/>
+    
+    <category term="CASIO" scheme="https://blog.tecur.xyz/tags/CASIO/"/>
+    
+    <category term="Flash" scheme="https://blog.tecur.xyz/tags/Flash/"/>
+    
+    <category term="Tutorial" scheme="https://blog.tecur.xyz/tags/Tutorial/"/>
+    
+  </entry>
+  
+</feed>
