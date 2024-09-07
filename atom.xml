@@ -6,7 +6,7 @@
   <link href="https://blog.tecur.xyz/atom.xml" rel="self"/>
   
   <link href="https://blog.tecur.xyz/"/>
-  <updated>2021-03-01T16:09:56.314Z</updated>
+  <updated>2024-09-07T18:20:14.203Z</updated>
   <id>https://blog.tecur.xyz/</id>
   
   <author>
@@ -17,11 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Building a Flatfield Mask</title>
+    <link href="https://blog.tecur.xyz/2024/08/28/Building-a-Flatfieldmask/"/>
+    <id>https://blog.tecur.xyz/2024/08/28/Building-a-Flatfieldmask/</id>
+    <published>2024-08-28T21:36:09.000Z</published>
+    <updated>2024-09-07T18:20:14.203Z</updated>
+    
+    
+    <summary type="html">Building a Flatfield Mask to generate Flat-Frames for my astrophotography setup</summary>
+    
+    
+    
+    
+    <category term="Astrophotography" scheme="https://blog.tecur.xyz/tags/Astrophotography/"/>
+    
+    <category term="Telescope" scheme="https://blog.tecur.xyz/tags/Telescope/"/>
+    
+  </entry>
+  
+  <entry>
     <title>CASIO fx-9750GII Firmware Update</title>
     <link href="https://blog.tecur.xyz/2018/02/03/Casio-fx-9750GII-Update/"/>
     <id>https://blog.tecur.xyz/2018/02/03/Casio-fx-9750GII-Update/</id>
     <published>2018-02-02T23:00:00.000Z</published>
-    <updated>2021-03-01T16:09:56.314Z</updated>
+    <updated>2021-03-02T09:45:00.740Z</updated>
     
     
     <summary type="html">Both CASIO fx-9750GII and CASIO fx-9860GII use the same SH4A CPU. Therefore the old firmware of the fx-9750GII (02.02.xxxx) can be replaced by the newer firmware of the fx-9860GII (02.02.0201)</summary>
